@@ -81,7 +81,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 **Abaixo todas os 3 diretórios Bronze, Silver, Gold**
 
-
+![Pastas Bronze_Silver_Gold](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/731a5670-a0d6-48a0-877b-ea1f9d83a82b)
 
 **Abaixo os arquivos coletados armazenados no diretório bronze**
 
