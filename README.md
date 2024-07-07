@@ -263,3 +263,19 @@ Deixo um gráfico abaixo com o custo unitário total de cada UF
 Deixo também um gráfico com as informações organizadas em colunas, onde conseguimos observar a variação do Preço Médio de cada Produto Mês a Mês.  
 Além disso no gráfico conseguimor ver exatamente quais os produtos que tiveram a maior variação de Preço ao Longo do Tempo.  
 Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro em 2024, uma variação de mais de 50% no mês de abril.
+
+##### 5 - Qual Ceasa com o maior Preço médio dos últimos 6 meses da Maça no brasil
+
+###### RESPOSTA: O Ceasa com o maior preço médio da Maça nos últimos 6 meses é o CEASA/MA - SAO LUIZ.  
+ 
+Deixo um gráfico abaixo com o custo médio dos últimos 6 meses em cada Ceasa. Nele podemos observar também que o Ceasa com o menor custo é o CEASA/RS - PORTO ALEGRE
+
+##### 6 - Qual o item com maior variação em junho de 2024
+
+###### RESPOSTA: O Produto com o maior variação em Junho é o Quiabo com a variação de 38,11%.  
+ 
+Deixo abaixo a resposta da consulta efetuada na Tabela totalizadora_hortigrangeiros
+
+## Autoavaliação
+
+
