@@ -216,3 +216,50 @@
 | Produto B         | 2024-01   | 25.00             | NULL                  |
 | Produto B         | 2024-02   | 24.00             | -4.00                 |
 | Produto B         | 2024-03   | 26.50             | 10.42                 |
+
+## Analise
+
+### Qualidade de dados
+
+Todos os dados de todas as tabelas foram tratados para garantir a qualidade, porém durante uma análise detalhada identifiquei 4 valores discrepantes para alguns produtos:
+
+- BERINJELA/ CEASA/MT - CUIABA/MT / 2024-01-17 / Preço do KG = 364
+- VAGEM CEAGESP - FRANCA/SP / 2024-01-29 / Preço do KG = 110
+- VAGEM CEAGESP - FRANCA/SP / 2024-02-01 / Preço do KG = 110
+- PIMENTAO VERDE CEASA/MT - CUIABA/MT / 2024-02-05 / Preço do KG = 72
+
+Decidi não remover esses dados, pois representam apenas 4 dias no ano de 2024 e têm pouca influência nos resultados que estou procurando. No entanto, é importante estar atento caso seja necessário um dado em uma granularidade menor, pois pode afetar a média de preços.
+
+Observando campo a campo da tabela, único que devemos ter uma atenção é para o campo data e Preço Médio. Nem todos os Ceasas colocam seus preços diariamente, com isso pode-se não encontrar algum preço médio em um dia específico para um Ceasa específio. Além disso alguns Estados não tem preço médio de alguns produto dentro do Período da base, são eles, 'BA', 'CE', 'ES', 'MT', 'PA', 'PE', 'RN', 'TO'. 
+
+O restante dos campos das tabelas silver para frente estão todos tratados e sem problemas. 
+
+### Solução do problema
+
+##### 1 - Qual o Preço médio dos últimos 6 meses dos produtos de hortifruti nos principais Estados do Brasil 
+
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada UF em Cada Produto.  
+Nesse gráfico é possível observar até além da resposta solicitada. Conseguimos ver qual o Produto que tem o Menor Preço Médio entre os produtos e Também a comparação dos Estados vs outros estados do Brasil.  
+Deixo também um df chamado "null_values", que contém os produtos que não tem Preço médio dentro de cada UF.  
+
+##### 2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024
+
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada Produto Mês a Mês.  
+Além disso no gráfico conseguimor ver exatamente os produtos que tiveram aumento de preço ao Longo do Tempo e os que tiveram redução.  
+Por exemplo a mandioquinha só cresce ao longo dos meses, em jan 24 custava 10,15 o KG e em junho está custando 15,02 o KG.
+Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está custando 7,29 em jun 24.
+
+##### 3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil 
+
+###### RESPOSTA: O Estado com maiores custos unitários de produtos de Hortifruti é o Estado MA.  
+Para essa Analise fiz uma divisão da quantidade de produtos totais pelos custos totais do Estado.  
+Deixo um gráfico abaixo com o custo unitário total de cada UF   
+
+##### 4 - Qual a variação mês a mês dos produtos de hortifruti no ano de 2024
+
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+Deixo também um gráfico com as informações organizadas em colunas, onde conseguimos observar a variação do Preço Médio de cada Produto Mês a Mês.  
+Além disso no gráfico conseguimor ver exatamente quais os produtos que tiveram a maior variação de Preço ao Longo do Tempo.  
+Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro em 2024, uma variação de mais de 50% no mês de abril.
