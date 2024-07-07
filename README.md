@@ -107,7 +107,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 
 #### Criação da Camada Bronze 
-
+Aqui Foi criado tanto o Catálogo "Bronze" como o schema "Tabela"
 
 #### Tratamento Base Bronze
 
@@ -121,7 +121,8 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 ##### Isso ocorre porque as operações de leitura e escrita no Azure Data Lake são realizadas utilizando a API do Spark.
 
 #### Criação da tabela bronze
-
+Aqui eu crio as tabelas Catálogo "Bronze" dentro do schema "Tabela".
+![Camada Bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/0a2200a1-b7a4-4311-8d9c-066926ff74b2)
 #### Inserindo dados na tabela bronze
 
 ##### Algumas consultas de teste das tabelas
