@@ -63,7 +63,11 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 2 - **Criei um Data Lake**
 * Crei um storege accounts
 * Associei ao grupo de recurso criado 
-* Criei o nome da Storege accont 
+* Criei o nome da Storege accont
+
+  
+![Storege account](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2c8eaedb-63a7-453e-8496-6abfda809ca6)
+
 
 3 - **Criar os containers dentro do Store**
 * Clicar em mais conteiners (bronze)  
