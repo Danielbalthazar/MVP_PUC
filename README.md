@@ -275,6 +275,8 @@ Além disso no gráfico conseguimor ver exatamente os produtos que tiveram aumen
 Por exemplo a mandioquinha só cresce ao longo dos meses, em jan 24 custava 10,15 o KG e em junho está custando 15,02 o KG.
 Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está custando 7,29 em jun 24.
 
+![2024-07-07 (5)](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/d8e5691f-639a-46e1-ae3f-412eba80f6fe)
+
 ##### 3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil 
 
 ###### RESPOSTA: O Estado com maiores custos unitários de produtos de Hortifruti é o Estado MA.  
