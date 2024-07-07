@@ -96,6 +96,9 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 * Criei um nome 
 * Selecionionei a versão grátis
 
+![Criando workspace databricks](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/8f1fe66b-3252-4289-8d51-382232247115)
+
+
 
 ### Para essa Modelagem utilizo a Arquitetura Medalhão
 
