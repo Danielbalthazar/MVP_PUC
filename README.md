@@ -70,7 +70,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 ![Storege account](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2c8eaedb-63a7-453e-8496-6abfda809ca6)  
 
 
-3 - **Criei os containers dentro do Store**
+3 - **Criei os containers dentro do storege**
 * Clicar em mais conteiners  
 
 
@@ -89,7 +89,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 
 ## Modelagem
-**Para a Modelagem utilizei o Databricks, e para utilizar todos os recursos peguei a versão free de 14 dias. Para isso criei um Workspace dentro da Propria Azure como mostro abaixo: **
+**Para a Modelagem utilizei o Databricks, e para utilizar todos os recursos peguei a versão free de 14 dias. Para isso criei um Workspace dentro da Propria Azure como mostro abaixo:**
 **Criei um workspace databricks na azure**
 * Azure Databricks Service
 * Adicionei ao grupo de recurso
