@@ -242,7 +242,7 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada UF em Cada Produto.  
 Nesse gráfico é possível observar até além da resposta solicitada. Conseguimos ver qual o Produto que tem o Menor Preço Médio entre os produtos e Também a comparação dos Estados vs outros estados do Brasil.  
 Deixo também um df chamado "null_values", que contém os produtos que não tem Preço médio dentro de cada UF.  
-
+![2024-07-07 (4)](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/fd6c46a5-93b9-42d4-83a4-0645ab5398c2)
 ##### 2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024
 
 ###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
