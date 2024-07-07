@@ -54,16 +54,16 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 ### Após logado na Azure versão free segui esses passos:
 
-1 - **Criar um Grupo de Recurso para Ficar organizado na Azure**  
+1 - **Criei um Grupo de Recurso para Ficar organizado na Azure**  
 * Grupo de Recurso  
 
 ![Resource group](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/f4e22f77-cb33-4d59-aa1b-dc26196e4cf4)
 
 
-2 - **Cria um Data Lake**
-* Criar storege accounts
-* Associar o grupo de recurso criado 
-* Criar nome da Storege accont name 
+2 - **Criei um Data Lake**
+* Crei um storege accounts
+* Associei ao grupo de recurso criado 
+* Criei o nome da Storege accont 
 
 3 - **Criar os containers dentro do Store**
 * Clicar em mais conteiners (bronze)  
