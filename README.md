@@ -57,6 +57,9 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 1 - **Criar um Grupo de Recurso para Ficar organizado na Azure**  
 * Grupo de Recurso  
 
+![Resource group](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/f4e22f77-cb33-4d59-aa1b-dc26196e4cf4)
+
+
 2 - **Cria um Data Lake**
 * Criar storege accounts
 * Associar o grupo de recurso criado 
