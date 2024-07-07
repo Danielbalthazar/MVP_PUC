@@ -333,8 +333,9 @@ Deixo também um df chamado "null_values", que contém os produtos que não tem 
 Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada Produto Mês a Mês.  
 Além disso no gráfico conseguimos ver exatamente os produtos que tiveram aumento de preço ao Longo do Tempo e os que tiveram redução.  
 Por exemplo a mandioquinha só cresce ao longo dos meses, em jan 24 custava 10,15 o KG e em junho está custando 15,02 o KG.
-Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está custando 7,29 em jun 24.
+Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está custando 7,29 em jun 24.  
 
+**Gráfico no README, pois plotly.express não aparece no repositório do github**
 ![2024-07-07 (5)](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/d8e5691f-639a-46e1-ae3f-412eba80f6fe)
 
 ##### 3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil 
@@ -343,6 +344,8 @@ Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está cus
 Para essa Analise fiz uma divisão da quantidade de produtos totais pelos custos totais do Estado.  
 Deixo um gráfico abaixo com o custo unitário total de cada UF   
 
+**Gráfico no README, pois plotly.express não aparece no repositório do github**  
+
 ##### 4 - Qual a variação mês a mês dos produtos de hortifruti no ano de 2024
 
 ###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
@@ -350,11 +353,17 @@ Deixo também um gráfico com as informações organizadas em colunas, onde cons
 Além disso no gráfico conseguimor ver exatamente quais os produtos que tiveram a maior variação de Preço ao Longo do Tempo.  
 Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro em 2024, uma variação de mais de 50% no mês de abril.
 
+**Gráfico no README, pois plotly.express não aparece no repositório do github**
+
+
 ##### 5 - Qual Ceasa com o maior Preço médio dos últimos 6 meses da Maça no brasil
 
 ###### RESPOSTA: O Ceasa com o maior preço médio da Maça nos últimos 6 meses é o CEASA/MA - SAO LUIZ.  
  
 Deixo um gráfico abaixo com o custo médio dos últimos 6 meses em cada Ceasa. Nele podemos observar também que o Ceasa com o menor custo é o CEASA/RS - PORTO ALEGRE
+
+**Gráfico no README, pois plotly.express não aparece no repositório do github**
+
 
 ##### 6 - Qual o item com maior variação em junho de 2024
 
