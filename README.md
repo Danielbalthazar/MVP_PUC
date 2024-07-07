@@ -86,3 +86,59 @@
 | Produto B    | DZ
 | Produto C    | UND
 | Produto D    | KG
+
+### CAMADA SILVER
+
+#### Criação da camada Silver
+
+#### Tratamento Base Silver
+
+#### Criação da tabela Silver
+
+#### Salvando Base no Directory Silver da Azure Datalake
+
+#### Inserindo dados na tabela Silver
+
+##### Algumas consultas de teste das tabelas
+
+#### Catálogo de Dados (CAMADA SILVER)
+
+##### Tabela Silver: Fato_hortigrangeiros
+
+| Coluna        | Descrição                                 | Tipo   |linhas   |Valores Nulos| Comentário                                      |
+| ------------- | ----------------------------------------- | ------ |---------|-------------|----------------------------------------------- |
+| Produto       | Nome do produto (FK para dimensao_produto)| string | 115.584 | 0           |Nome do Produto de Hortifruti Chave estrangeira referenciando dimensao_produto pelo nome |
+| Fornecedor    | Nome do fornecedor                        | string | 115.584 | 0           |Nome do Ceasa que pratica aquele preço                     |
+| UF            | Unidade Federativa do fornecedor          | string | 115.584 | 0           |Estado (UF) do fornecedor (ex: SP, RJ)                     |
+| Data          | Data do Preço Preço do produto            | Date   | 115.584 | 0           |Data no formato YYYY-MM-DD / Data do preço praticado no dia/ Dados do dia 2024-01-02 a 2024-06-26|
+| Preco_Medio   | Preço médio do produto                    | Double | 115.584 | 0           |Preço médio em reais (R$), com duas casas decimais/ Preço do Produto praticado pelo Ceasa no Dia /Valores Nulos Retirados /Min = 0,5 e Max = 364 |
+
+##### Tabela Silver: dimensao_produto
+
+| Coluna        | Descrição         | Tipo   |linhas   |Valores Nulos| Comentário                                      |
+| ------------- | ----------------- | ------ |---------|-------------| ----------------------------------------------- |
+| Nome_Produto  | Nome do produto (PK para Fato_hortigrangeiros)   | string | 48 | 0           | Chave Primária referenciando dimensao_produto pelo nome        |
+| Unidade       | Unidade de Medida | string | 48 | 0           | Unidade de Medida do Produto (Untilizado para identificar na tabela Fato qual unidade de medida o Preço está se referenciando)    |
+
+
+#### Exemplo de Dados
+
+##### Tabela Silver: Fato_hortigrangeiros
+
+| Produto     | Fornecedor  | UF  | Data       | Preco_Medio |
+| ----------- | ----------- | --- | ---------- | ----------- |
+| Produto A   | Fornecedor A | SP  | 2024-07-01 | 10.00       |
+| Produto B   | Fornecedor B | RJ  | 2024-07-02 | 20.00       |
+| Produto C   | Fornecedor C | MG  | 2024-07-03 | 30.00       |
+| Produto D   | Fornecedor D | ES  | 2024-07-04 | 40.00       |
+
+##### Tabela Silver: dimensao_produto
+
+| Produto | Unidade |
+| ------------ | --------- |
+| Produto A    | KG
+| Produto B    | DZ
+| Produto C    | UND
+| Produto D    | KG
+
+
