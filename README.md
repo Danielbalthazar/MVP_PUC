@@ -36,13 +36,17 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 ### Buscando os dados nas fontes:
 
-Primeiro acessei o site https://www.conab.gov.br/info-agro/hortigranjeiros-prohort fui em consulta oferta, preços e origens como mostro abaixo:
+##### Primeiro acessei o site https://www.conab.gov.br/info-agro/hortigranjeiros-prohort fui em consulta oferta, preços e origens como mostro abaixo:
 
 ![Site conab](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/f7dc9888-667c-4a55-be2d-67481f8a5b22)
 
-Assim, fui direcionado para o BI e cliquei em realize uma consulta:
+##### Assim, fui direcionado para o BI e cliquei em realize uma consulta:
 
 ![Realize uma consulta](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2f322b3d-5038-4d56-9d44-fa0e008c0f55)
+
+##### Fui direcionado ao BI da Conab onde realizei a extração das Bases. Como as Bases eram muito grandes, tive que extrair mês a mês.
+
+
 
 ## Armazenamento na nuvem dos dados coletados
 
