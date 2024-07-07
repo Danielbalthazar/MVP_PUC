@@ -91,7 +91,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 ## Modelagem
 **Para a Modelagem utilizei o Databricks, e para utilizar todos os recursos peguei a versão free de 14 dias. Para isso criei um Workspace dentro da Propria Azure como mostro abaixo:**
 
-**/Criei um workspace databricks na azure**
+**Criei um workspace databricks na azure**
 * Azure Databricks Service
 * Adicionei ao grupo de recurso
 * Criei um nome 
