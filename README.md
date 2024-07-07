@@ -85,6 +85,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 **Abaixo os arquivos coletados armazenados no diretório bronze**
 
+![diretório Bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2c207e30-ef47-4d52-b3cd-08f44f403664)
 
 5 - **Criar o Recurso data bricks na azure**
 * Azure databricks
