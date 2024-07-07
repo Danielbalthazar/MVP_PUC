@@ -50,6 +50,28 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 ## Armazenamento na nuvem dos dados coletados
 
+### Primeiro foi Necessário a Criação de uma conta na Azure versão free
+
+### Após logado na Azure versão free segui esses passos:
+
+1 - **Criar um Grupo de Recurso para Ficar organizado na Azure**  
+* Grupo de Recurso  
+
+2 - **Cria um Data Lake**
+* Criar storege accounts
+* Associar o grupo de recurso criado 
+* Criar nome da Storege accont name 
+
+3 - **Criar os containers dentro do Store**
+* Clicar em mais conteiners (bronze)  
+
+5 - **Criar o Recurso data bricks na azure**
+* Azure databricks
+* Adicionar a um grupo de recurso
+* Criar um nome 
+* Selecionionei a versão grátis
+
+
 
 ## Modelagem
 
