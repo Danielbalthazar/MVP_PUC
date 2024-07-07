@@ -34,7 +34,9 @@ CEPEA = https://www.cepea.esalq.usp.br/br/indicador/acucar.aspx
 
 Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
+### Buscando os dados nas fontes:
 
+Primeiro acessei o site https://www.conab.gov.br/info-agro/hortigranjeiros-prohort e cliquei em 
 
 ## Armazenamento na nuvem dos dados coletados
 
