@@ -70,12 +70,20 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 ![Storege account](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2c8eaedb-63a7-453e-8496-6abfda809ca6)  
 
 
-3 - **Criar os containers dentro do Store**
+3 - **Criei os containers dentro do Store**
 * Clicar em mais conteiners  
 
 
 ![Container](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/c18b6881-951f-43b4-aa94-e3394f3a646d)  
 
+
+6 - **Criei um diretório para cada Camada (Bronze, Silver, Gold) dentro do conteiner e no diretório Bronze armazenei todas as Bases coletadas no formato xlsx**
+
+**Abaixo todas os 3 diretórios Bronze, Silver, Gold**
+
+
+
+**Abaixo os arquivos coletados armazenados no diretório bronze**
 
 
 5 - **Criar o Recurso data bricks na azure**
