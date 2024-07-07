@@ -45,9 +45,11 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 ![Realize uma consulta](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2f322b3d-5038-4d56-9d44-fa0e008c0f55)
 
 ##### Fui direcionado ao BI da Conab onde realizei a extração das Bases. Como as Bases eram muito grandes, tive que extrair mês a mês como demonstro abaixo.
+<br /> 
 
 ![extração bases](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/6141a358-4393-474c-8d7e-45a4a278fd8b)
 
+<br />
 ## Armazenamento na nuvem dos dados coletados
 
 ### Primeiro foi Necessário a Criação de uma conta na Azure versão free
