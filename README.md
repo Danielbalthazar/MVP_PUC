@@ -271,7 +271,7 @@ Deixo também um df chamado "null_values", que contém os produtos que não tem 
 
 ###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
 Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada Produto Mês a Mês.  
-Além disso no gráfico conseguimor ver exatamente os produtos que tiveram aumento de preço ao Longo do Tempo e os que tiveram redução.  
+Além disso no gráfico conseguimos ver exatamente os produtos que tiveram aumento de preço ao Longo do Tempo e os que tiveram redução.  
 Por exemplo a mandioquinha só cresce ao longo dos meses, em jan 24 custava 10,15 o KG e em junho está custando 15,02 o KG.
 Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está custando 7,29 em jun 24.
 
