@@ -42,11 +42,11 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 ##### Assim, fui direcionado para o BI e cliquei em realize uma consulta:
 
-![Realize uma consulta](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2f322b3d-5038-4d56-9d44-fa0e008c0f55)<br>
-<br>
-##### Fui direcionado ao BI da Conab onde realizei a extração das Bases. Como as Bases eram muito grandes, tive que extrair mês a mês como demonstro abaixo.
+![Realize uma consulta](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2f322b3d-5038-4d56-9d44-fa0e008c0f55)
 
-![extração bases](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/6141a358-4393-474c-8d7e-45a4a278fd8b)
+##### Fui direcionado ao BI da Conab onde realizei a extração das Bases. Como as Bases eram muito grandes, tive que extrair mês a mês como demonstro abaixo.  
+
+![extração bases](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/6141a358-4393-474c-8d7e-45a4a278fd8b)  
 
 
 ## Armazenamento na nuvem dos dados coletados
@@ -58,7 +58,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 1 - **Criei um Grupo de Recurso para Ficar organizado na Azure**  
 * Grupo de Recurso  
 
-![Resource group](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/f4e22f77-cb33-4d59-aa1b-dc26196e4cf4)
+![Resource group](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/f4e22f77-cb33-4d59-aa1b-dc26196e4cf4)  
 
 
 2 - **Criei um Data Lake**
@@ -67,11 +67,16 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 * Criei o nome da Storege accont
 
 
-![Storege account](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2c8eaedb-63a7-453e-8496-6abfda809ca6)
+![Storege account](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2c8eaedb-63a7-453e-8496-6abfda809ca6)  
 
 
 3 - **Criar os containers dentro do Store**
-* Clicar em mais conteiners (bronze)  
+* Clicar em mais conteiners  
+
+
+![Container](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/c18b6881-951f-43b4-aa94-e3394f3a646d)  
+
+
 
 5 - **Criar o Recurso data bricks na azure**
 * Azure databricks
