@@ -77,7 +77,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 ![Container](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/c18b6881-951f-43b4-aa94-e3394f3a646d)  
 
 
-6 - **Criei um diretório para cada Camada (Bronze, Silver, Gold) dentro do conteiner e no diretório Bronze armazenei todas as Bases coletadas no formato xlsx**
+4 - **Criei um diretório para cada Camada (Bronze, Silver, Gold) dentro do conteiner e no diretório Bronze armazenei todas as Bases coletadas no formato xlsx**
 
 **Abaixo todas os 3 diretórios Bronze, Silver, Gold**
 
@@ -87,15 +87,15 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 ![diretório Bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/2c207e30-ef47-4d52-b3cd-08f44f403664)
 
-5 - **Criar o Recurso data bricks na azure**
-* Azure databricks
-* Adicionar a um grupo de recurso
-* Criar um nome 
-* Selecionionei a versão grátis
-
-
 
 ## Modelagem
+**Para a Modelagem utilizei o Databricks, e para utilizar todos os recursos peguei a versão free de 14 dias. Para isso criei um Workspace dentro da Propria Azure como mostro abaixo: **
+**Criei um workspace databricks na azure**
+* Azure Databricks Service
+* Adicionei ao grupo de recurso
+* Criei um nome 
+* Selecionionei a versão grátis
+
 
 ### Para essa Modelagem utilizo a Arquitetura Medalhão
 
