@@ -423,10 +423,10 @@ Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está cus
 
 **Como o Gráfico é interativo, conseguimos dar zoom e observar um ponto específico, como mostro abaixo:** 
 **Recurso de ZOOM do gráfico**
-![Gráfico Resposta 2 Zoom_2](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/8e17e953-b1fc-4493-bd07-f5aaf5c6f6c7)
+![Gráfico Resposta 2 Zoom_1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/49b78a4a-911a-4b5a-9bfe-65d876f66b42)
 
 **Após dado o Zoom**
-![Gráfico Resposta 2 Zoom_1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/49b78a4a-911a-4b5a-9bfe-65d876f66b42)
+![Gráfico Resposta 2 Zoom_2](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/8e17e953-b1fc-4493-bd07-f5aaf5c6f6c7)
 
 ##### 3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil 
 
