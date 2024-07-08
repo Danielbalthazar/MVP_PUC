@@ -285,7 +285,15 @@ Realizo algumas consultas SQL teste para verifica se as tabelas estão funcionan
 
 #### Criação da camada GOLD
 
+Aqui Foi criado tanto o Catálogo "Gold" como o schema "Tabela"
+
 #### Tratamento Base Gold
+
+Aqui Realizo alguns tratamentos:
+* Adiciono uma coluna de Ano mês na tabela fato
+* Crio uma terceira tabela que chamo de totalizadora, nela deixo apenas o custo médio por mês e ano de cada Produto no Brasil e a variação Mês-1 de cada produto.
+
+
 
 #### Criação da tabela Gold
 
