@@ -106,7 +106,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 
 
-### Para essa Modelagem utilizo a Arquitetura Medalhão Separando em 3 Camadas de tratamento (Bronze, Silver e Gold)
+### Para essa Modelagem utilizo a Arquitetura Medalhão separando em 3 Camadas de tratamento (Bronze, Silver e Gold)
 
 
 
