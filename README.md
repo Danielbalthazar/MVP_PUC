@@ -216,6 +216,9 @@ Aqui eu crio as tabelas no Catálogo "Silver" dentro do schema "Tabela".
 
 Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da camada silver dentro do diretório Silver. 
 
+![Salvando Arquivos tratados Camada silver](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/5161685d-05d7-4c75-8c5e-9fe5c4164203)
+
+
 #### Inserindo dados na tabela Silver
 
 ##### Algumas consultas de teste das tabelas
