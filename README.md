@@ -124,7 +124,7 @@ Aqui Foi criado tanto o Catálogo "Bronze" como o schema "Tabela"
 ##### Tratamento na Base para inserção na tabela bronze
 
 Aqui Realizo alguns tratamentos:  
-* Renomeie algumas colunas 
+* Renomeei algumas colunas 
 * Removi a primeira linha do cabeçalho adicional
 * Derreti as colunas para a Tabela ficar em um formato longo e estreito(Anteriormente as datas estavam nas colunas, Trouxe para as linhas)
 * juntei os 6 Meses em uma única tabela
@@ -141,10 +141,12 @@ Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da 
 
 #### Criação da tabela bronze
 
-Aqui eu crio as tabelas Catálogo "Bronze" dentro do schema "Tabela".
+Aqui eu crio as tabelas no Catálogo "Bronze" dentro do schema "Tabela".
 ![Camada Bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/0a2200a1-b7a4-4311-8d9c-066926ff74b2)
 
 #### Inserindo dados na tabela bronze
+
+Nessa Etapa eu Leio os arquivos Deltas tratados da Azure e salvo na tabela broze criada anteriormente no databriks 
 
 ##### Algumas consultas de teste das tabelas
 
@@ -194,9 +196,21 @@ Realizo algumas consultas SQL teste para verifica se as tabelas estão funcionan
 
 #### Criação da camada Silver
 
+Aqui Foi criado tanto o Catálogo "Silver" como o schema "Tabela"
+
 #### Tratamento Base Silver
 
+Aqui Realizo alguns tratamentos:
+* Ajusto a coluna de data que está como string para date. Como a data está em português realizo um tratamento para os meses em português ficassem em inglês, pois com os meses em português não estavam convertendo usando a funsão .withColumn('Data', to_date(col('Data'), 'dd-MMM-yyyy'))
+* Realizo a conversão do Preco_Medio de string para Double
+* Retiro os valores nulos da Coluna Preco_Medio
+* Reordeno as linhas por Produto, Fornecedor e data.
+
 #### Criação da tabela Silver
+
+Aqui eu crio as tabelas no Catálogo "Silver" dentro do schema "Tabela".
+
+
 
 #### Salvando Base no Directory Silver da Azure Datalake
 
