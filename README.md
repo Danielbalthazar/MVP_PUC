@@ -422,6 +422,7 @@ Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está cus
 
 
 **Como o Gráfico é interativo, conseguimos dar zoom e observar um ponto específico, como mostro abaixo:** 
+
 **Recurso de ZOOM do gráfico**
 ![Gráfico Resposta 2 Zoom_1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/49b78a4a-911a-4b5a-9bfe-65d876f66b42)
 
