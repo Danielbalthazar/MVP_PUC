@@ -294,8 +294,9 @@ Aqui Realizo alguns tratamentos:
 * Crio uma terceira tabela que chamo de totalizadora, nela deixo apenas o custo médio por mês e ano de cada Produto no Brasil e a variação Mês-1 de cada produto.
 
 
-
 #### Criação da tabela Gold
+
+![Camada gold](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/58623a7f-e390-49cb-8b8d-83a12a8e7e2f)
 
 #### Salvando Base no Directory Gold da Azure Datalake
 
