@@ -201,7 +201,7 @@ Aqui Foi criado tanto o Catálogo "Silver" como o schema "Tabela"
 #### Tratamento Base Silver
 
 Aqui Realizo alguns tratamentos:
-* Ajusto a coluna de data que está como string para date. Como a data está em português realizo um tratamento para os meses em português ficassem em inglês, pois com os meses em português não estavam convertendo usando a funsão .withColumn('Data', to_date(col('Data'), 'dd-MMM-yyyy'))
+* Ajusto a coluna de data que está como string para date. Como a data está em português realizo um tratamento para que os meses em português ficassem em inglês, pois com os meses em português não estavam convertendo usando a funsão .withColumn('Data', to_date(col('Data'), 'dd-MMM-yyyy'))
 * Realizo a conversão do Preco_Medio de string para Double
 * Retiro os valores nulos da Coluna Preco_Medio
 * Reordeno as linhas por Produto, Fornecedor e data.
@@ -210,7 +210,7 @@ Aqui Realizo alguns tratamentos:
 
 Aqui eu crio as tabelas no Catálogo "Silver" dentro do schema "Tabela".
 
-
+![Camda Silver](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/fb5cf16c-2bfc-4d0e-a4b7-f439f28f0738)
 
 #### Salvando Base no Directory Silver da Azure Datalake
 
