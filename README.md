@@ -106,7 +106,12 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 
 
-### Para essa Modelagem utilizo a Arquitetura Medalhão
+### Para essa Modelagem utilizo a Arquitetura Medalhão Separando em 3 Camadas de tratamento (Bronze, Silver e Gold)
+
+
+
+
+
 
 ### CAMADA BRONZE
 
@@ -191,6 +196,12 @@ Realizo algumas consultas SQL teste para verifica se as tabelas estão funcionan
 | Produto B    | DZ
 | Produto C    | UND
 | Produto D    | KG
+
+
+
+
+
+
 
 ### CAMADA SILVER
 
