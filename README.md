@@ -119,8 +119,12 @@ Aqui Foi criado tanto o Catálogo "Bronze" como o schema "Tabela"
 Priemiro eu leio as bases tanto Dimensão Produto (para trazer a unidade de medida dos itens) como as 6 bases fato com os preços médios diários dos Produtos de hortifruti do período de jan a jun24.
 
 ##### Tratamento na Base para inserção na tabela bronze
-Aqui Relaizo alguns tratamentos de renomear algumas colunas, removi a primeira linha do cabeçalho adicional, derreti as colunas para a Tabela ficar em um formato longo e estreito(Anteriormente as datas estavam nas colunas, Trouxe para as linhas) e juntei os 6 Meses em uma única tabela.
+
+Aqui Realizo alguns tratamentos onde renomeie algumas colunas, removi a primeira linha do cabeçalho adicional, derreti as colunas para a Tabela ficar em um formato longo e estreito(Anteriormente as datas estavam nas colunas, Trouxe para as linhas) e juntei os 6 Meses em uma única tabela.
+
 #### Salvando arquivo Bronze no Data Lake
+
+
 
 ##### Para salvar um arquivo no Azure Data Lake como um Delta Table usando Spark, é necessário converter o DataFrame pandas em um DataFrame Spark.  
 ##### Isso ocorre porque as operações de leitura e escrita no Azure Data Lake são realizadas utilizando a API do Spark.
