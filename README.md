@@ -152,7 +152,7 @@ Aqui eu crio as tabelas no Catálogo "Bronze" dentro do schema "Tabela".
 
 #### Inserindo dados na tabela bronze
 
-Nessa Etapa eu Leio os arquivos Deltas tratados da Azure e salvo na tabela broze criada anteriormente no databriks 
+Nessa Etapa eu Leio os arquivos Deltas tratados da Azure e insiro nas tabelas criadas anteriormente no databriks 
 
 ##### Algumas consultas de teste das tabelas
 
@@ -233,7 +233,7 @@ Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da 
 
 #### Inserindo dados na tabela Silver
 
-Nessa etapa eu salvo a base com os tratamentos da camada Silver no schema tabela criada anteriormente no databriks.
+Nessa etapa eu insiro a base com os tratamentos da camada Silver no schema tabela criada anteriormente no databriks.
 
 ##### Algumas consultas de teste das tabelas
 
@@ -308,7 +308,12 @@ Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da 
 
 #### Inserindo dados na tabela Gold
 
+Nessa etapa eu insiro a base com os tratamentos da camada Gold no schema tabela criada anteriormente no databriks.
+
+
 ##### Algumas consultas de teste das tabelas
+
+Realizo algumas consultas SQL teste para verifica se as tabelas estão funcionando corretamente
 
 #### Catálogo de Dados (CAMADA GOLD)
 
@@ -392,7 +397,7 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 
 ##### 1 - Qual o Preço médio dos últimos 6 meses dos produtos de hortifruti nos principais Estados do Brasil 
 
-###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela no notebook como a resposta.  
 Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada UF em Cada Produto.  
 Nesse gráfico é possível observar até além da resposta solicitada. Conseguimos ver qual o Produto que tem o Menor Preço Médio entre os produtos e Também a comparação dos Estados vs outros estados do Brasil.  
 Deixo também um df chamado "null_values", que contém os produtos que não tem Preço médio dentro de cada UF.
@@ -403,7 +408,7 @@ Deixo também um df chamado "null_values", que contém os produtos que não tem 
 
 ##### 2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024
 
-###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela no notebook como a resposta.  
 Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada Produto Mês a Mês.  
 Além disso no gráfico conseguimos ver exatamente os produtos que tiveram aumento de preço ao Longo do Tempo e os que tiveram redução.  
 Por exemplo a mandioquinha só cresce ao longo dos meses, em jan 24 custava 10,15 o KG e em junho está custando 15,02 o KG.
@@ -422,7 +427,7 @@ Deixo um gráfico abaixo com o custo unitário total de cada UF
 
 ##### 4 - Qual a variação mês a mês dos produtos de hortifruti no ano de 2024
 
-###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela no notebook como a resposta.  
 Deixo também um gráfico com as informações organizadas em colunas, onde conseguimos observar a variação do Preço Médio de cada Produto Mês a Mês.  
 Além disso no gráfico conseguimor ver exatamente quais os produtos que tiveram a maior variação de Preço ao Longo do Tempo.  
 Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro em 2024, uma variação de mais de 50% no mês de abril.
