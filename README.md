@@ -416,7 +416,16 @@ Por exemplo a mandioquinha só cresce ao longo dos meses, em jan 24 custava 10,1
 Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está custando 7,29 em jun 24.  
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**
-![2024-07-07 (5)](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/d8e5691f-639a-46e1-ae3f-412eba80f6fe)
+
+**Gráfico Completo**:
+![Gráfico Resposta 2 Zoom_1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/49b78a4a-911a-4b5a-9bfe-65d876f66b42)
+
+**Como o Gráfico é interativo, conseguimos dar zoom e observar um ponto específico, como mostro abaixo:** 
+**Recurso de ZOOM do gráfico**
+![Gráfico Resposta 2 Zoom_2](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/8e17e953-b1fc-4493-bd07-f5aaf5c6f6c7)
+
+**Após dado o Zoom**
+![Gráfico Resposta 2](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/f6e98dae-53e3-476e-b4c2-13b937436031)
 
 ##### 3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil 
 
