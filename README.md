@@ -232,7 +232,12 @@ Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da 
 
 #### Inserindo dados na tabela Silver
 
+Nessa etapa eu salvo a base com os tratamentos da camada Silver no schema tabela criada anteriormente no databriks.
+
 ##### Algumas consultas de teste das tabelas
+
+Realizo algumas consultas SQL teste para verifica se as tabelas estão funcionando corretamente
+
 
 #### Catálogo de Dados (CAMADA SILVER)
 
