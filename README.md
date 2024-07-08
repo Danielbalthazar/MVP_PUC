@@ -116,7 +116,9 @@ Aqui Foi criado tanto o Catálogo "Bronze" como o schema "Tabela"
 #### Tratamento Base Bronze
 
 ##### Carregamento dos arquivos armazenados no Datalake na pasta bronze para modelagem 
-Priemiro eu leio as bases tanto Dimensão Produto (para trazer a unidade de medida dos itens) como as 6 bases fato com os preços médios diários dos Produtos de hortifruti do período de jan a jun24.
+
+Realizo a conexão com a azure para ler os arquivos em xlsx do diretório Bronze 
+Leio as bases tanto Dimensão Produto como as 6 bases fato com os preços médios diários dos Produtos de hortifruti do período de jan a jun24.
 
 ##### Tratamento na Base para inserção na tabela bronze
 
@@ -124,18 +126,24 @@ Aqui Realizo alguns tratamentos onde renomeie algumas colunas, removi a primeira
 
 #### Salvando arquivo Bronze no Data Lake
 
-
-
 ##### Para salvar um arquivo no Azure Data Lake como um Delta Table usando Spark, é necessário converter o DataFrame pandas em um DataFrame Spark.  
 ##### Isso ocorre porque as operações de leitura e escrita no Azure Data Lake são realizadas utilizando a API do Spark.
 
+Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da camada bronze dentro do diretório Bronze. 
+
+![Salvando Arquivos tratados Camada Bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/87acef08-0fab-4fbc-9649-68ba35bb2f4b)
+
+
 #### Criação da tabela bronze
+
 Aqui eu crio as tabelas Catálogo "Bronze" dentro do schema "Tabela".
 ![Camada Bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/0a2200a1-b7a4-4311-8d9c-066926ff74b2)
+
 #### Inserindo dados na tabela bronze
 
 ##### Algumas consultas de teste das tabelas
 
+Realizo algumas consultas SQL teste para verifica se as tabelas estão funcionando corretamente
 
 #### Catálogo de Dados (CAMADA BRONZE)
 
