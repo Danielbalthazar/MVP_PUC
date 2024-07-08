@@ -214,6 +214,8 @@ Aqui eu crio as tabelas no Catálogo "Silver" dentro do schema "Tabela".
 
 #### Salvando Base no Directory Silver da Azure Datalake
 
+Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da camada silver dentro do diretório Silver. 
+
 #### Inserindo dados na tabela Silver
 
 ##### Algumas consultas de teste das tabelas
