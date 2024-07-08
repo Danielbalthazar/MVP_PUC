@@ -147,7 +147,8 @@ Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da 
 #### Criação da tabela bronze
 
 Aqui eu crio as tabelas no Catálogo "Bronze" dentro do schema "Tabela".
-![Camada Bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/0a2200a1-b7a4-4311-8d9c-066926ff74b2)
+
+![Camada bronze](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/e4c9ecf2-6361-4d2a-ae8a-9f92fea18b82)
 
 #### Inserindo dados na tabela bronze
 
