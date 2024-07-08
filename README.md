@@ -118,12 +118,16 @@ Aqui Foi criado tanto o Catálogo "Bronze" como o schema "Tabela"
 
 ##### Carregamento dos arquivos armazenados no Datalake na pasta bronze para modelagem 
 
-Realizo a conexão com a azure para ler os arquivos em xlsx do diretório Bronze 
-Leio as bases tanto Dimensão Produto como as 6 bases fato com os preços médios diários dos Produtos de hortifruti do período de jan a jun24.
+* Realizo a conexão com a azure para ler os arquivos em xlsx do diretório Bronze 
+* Leio as bases tanto Dimensão Produto como as 6 bases fato com os preços médios diários dos Produtos de hortifruti do período de jan a jun24.
 
 ##### Tratamento na Base para inserção na tabela bronze
 
-Aqui Realizo alguns tratamentos onde renomeie algumas colunas, removi a primeira linha do cabeçalho adicional, derreti as colunas para a Tabela ficar em um formato longo e estreito(Anteriormente as datas estavam nas colunas, Trouxe para as linhas) e juntei os 6 Meses em uma única tabela.
+Aqui Realizo alguns tratamentos:  
+* Renomeie algumas colunas 
+* Removi a primeira linha do cabeçalho adicional
+* Derreti as colunas para a Tabela ficar em um formato longo e estreito(Anteriormente as datas estavam nas colunas, Trouxe para as linhas)
+* juntei os 6 Meses em uma única tabela
 
 #### Salvando arquivo Bronze no Data Lake
 
