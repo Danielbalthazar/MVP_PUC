@@ -213,6 +213,7 @@ Aqui Foi criado tanto o Catálogo "Silver" como o schema "Tabela"
 #### Tratamento Base Silver
 
 Aqui Realizo alguns tratamentos:
+* Primeiro Leio o arquivo com os tratamentos da camada Bronze
 * Ajusto a coluna de data que está como string para date. Como a data está em português realizo um tratamento para que os meses em português ficassem em inglês, pois com os meses em português não estavam convertendo usando a funsão .withColumn('Data', to_date(col('Data'), 'dd-MMM-yyyy'))
 * Realizo a conversão do Preco_Medio de string para Double
 * Retiro os valores nulos da Coluna Preco_Medio
@@ -290,6 +291,7 @@ Aqui Foi criado tanto o Catálogo "Gold" como o schema "Tabela"
 #### Tratamento Base Gold
 
 Aqui Realizo alguns tratamentos:
+* Primeiro Leio o arquivo com os tratamentos da camada Silver
 * Adiciono uma coluna de Ano mês na tabela fato
 * Crio uma terceira tabela que chamo de totalizadora, nela deixo apenas o custo médio por mês e ano de cada Produto no Brasil e a variação Mês-1 de cada produto.
 
