@@ -296,9 +296,15 @@ Aqui Realizo alguns tratamentos:
 
 #### Criação da tabela Gold
 
+Aqui eu crio as tabelas no Catálogo "Gold" dentro do schema "Tabela".
+
 ![Camada gold](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/58623a7f-e390-49cb-8b8d-83a12a8e7e2f)
 
 #### Salvando Base no Directory Gold da Azure Datalake
+
+Nessa etapa eu me conecto com a Azure e salvo os arquivos com os tratamentos da camada Gold dentro do diretório Gilver. 
+
+![Salvando Arquivos tratados Camada Gold](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/efffe3b1-08ff-4cbf-a947-8871ff8e901e)
 
 #### Inserindo dados na tabela Gold
 
