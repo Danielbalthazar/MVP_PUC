@@ -405,7 +405,7 @@ Nesse gráfico é possível observar até além da resposta solicitada. Consegui
 Deixo também um df chamado "null_values", que contém os produtos que não tem Preço médio dentro de cada UF.
 
 ![Gráfico Resposta 1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/da2a59ae-6fd4-470c-870e-a3920c71feb9)
-
+![2024-07-09](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/ad1b8138-0f5d-4a73-bfb3-b9dbf72826db)
 
 ##### 2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024
 
