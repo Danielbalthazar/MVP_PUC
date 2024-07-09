@@ -438,6 +438,7 @@ Deixo um gráfico abaixo com o custo unitário total de cada UF
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**  
 
+![Gráfico Resposta 3](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/b48504cc-5b30-44fa-abe5-1ffe519ecc87)
 
 
 ##### 4 - Qual a variação mês a mês dos produtos de hortifruti no ano de 2024
