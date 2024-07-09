@@ -19,11 +19,11 @@
 
 3. **Qual o estado com os maiores custos de produtos unitários de hortifruti do Brasil?**
 
-   **Objetivo Detalhado:** Determinar qual estado brasileiro apresenta os maiores custos unitários para produtos hortifrutigranjeiros. Esta informação é crucial para entender disparidades regionais nos custos, identificar estados com mercados mais onerosos e investigar possíveis causas para essas variações.
+   **Objetivo Detalhado:** Determinar qual estado brasileiro apresenta os maiores custos unitários para produtos hortifrutigranjeiros. Esta informação ajuda a identificar estados com altos custos de produtos .
 
 4. **Qual a variação mês a mês dos produtos de hortifruti no ano de 2024?**
 
-   **Objetivo Detalhado:** Avaliar a variação mensal dos preços dos produtos hortifrutigranjeiros ao longo de 2024. Esta análise permitirá identificar padrões de variação, meses de maior volatilidade e ajudar na previsão de comportamentos futuros dos preços.
+   **Objetivo Detalhado:** Avaliar a variação mensal dos preços dos produtos hortifrutigranjeiros ao longo de 2024. Esta análise permitirá identificar meses de maior volatilidade.
 
 5. **Qual Ceasa com o maior preço médio dos últimos 6 meses da maçã no Brasil?**
 
