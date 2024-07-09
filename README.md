@@ -460,7 +460,7 @@ Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro e
 
 ##### 5 - Qual Ceasa com o maior Preço médio dos últimos 6 meses da Maça no brasil
 
-###### RESPOSTA: O Ceasa com o maior preço médio da Maça nos últimos 6 meses é o CEASA/MA - SAO LUIZ.  
+###### RESPOSTA: O Ceasa com o maior preço médio da Maça nos últimos 6 meses é o CEASA/MA - SAO LUIZ com um preço médio de 13,52.  
  
 Deixo um gráfico abaixo com o custo médio dos últimos 6 meses em cada Ceasa. Nele podemos observar também que o Ceasa com o menor custo é o CEASA/RS - PORTO ALEGRE
 
