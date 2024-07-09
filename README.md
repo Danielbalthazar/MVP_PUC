@@ -93,7 +93,7 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 
 ## Modelagem
-**Para a Modelagem utilizei o Databricks e para utilizar todos os recursos peguei a versão free de 14 dias. Assim criei um Workspace dentro da Propria Azure como mostro abaixo:**
+**Para a Modelagem utilizei o Databricks e para utilizar todos os recursos peguei a versão free de 14 dias. Assim criei um Workspace dentro da própria Azure como mostro abaixo:**
 
 **Criei um workspace databricks na azure**
 * Azure Databricks Service
@@ -106,9 +106,6 @@ Base Dolar = https://br.investing.com/currencies/usd-brl-historical-data
 
 
 ### Para essa Modelagem utilizo a Arquitetura Medalhão separando em 3 Camadas de tratamento (Bronze, Silver e Gold)
-
-
-
 
 
 
@@ -390,9 +387,13 @@ Todos os dados de todas as tabelas foram tratados para garantir a qualidade, por
 
 Decidi não remover esses dados, pois representam apenas 4 dias no ano de 2024 e têm pouca influência nos resultados que estou procurando. No entanto, é importante estar atento caso seja necessário um dado em uma granularidade menor, pois pode afetar a média de preços.
 
-Observando campo a campo da tabela, único que devemos ter uma atenção é para o campo data e Preço Médio. Nem todos os Ceasas colocam seus preços diariamente, com isso pode-se não encontrar algum preço médio em um dia específico para um Ceasa específio. Além disso alguns Estados não tem preço médio de alguns produto dentro do Período da base, são eles, 'BA', 'CE', 'ES', 'MT', 'PA', 'PE', 'RN', 'TO'. 
+Observando campo a campo da tabela, único que devemos ter uma atenção é para o campo data e Preço Médio. Nem todos os Ceasas colocam seus preços diariamente, com isso pode-se não encontrar algum preço médio em um dia específico para um Ceasa específio. Além disso alguns Estados não tem preço médio de alguns produto dentro do Período da base, são eles, 'BA', 'CE', 'ES', 'MT', 'PA', 'PE', 'RN', 'TO'. As evidências eu deixo no Notebook, onde coloco uma tabela com os produtos e nomes das UF sem custo desses produto. 
 
 O restante dos campos das tabelas silver para frente estão todos tratados e sem problemas. 
+
+#### Consultas pra evidência dos Estados sem custos de alguns produtos para etapa de qualidade dos dados
+
+**Nessa etapa eu deixo as evidências das consultas feitas nas tabelas que mostram os produtos e nomes das UF sem custo de alguns produto
 
 ### Solução do problema
 
