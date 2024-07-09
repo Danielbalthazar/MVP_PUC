@@ -4,7 +4,7 @@
 
 # Nome: Daniel Balthazar
 
-**No README, incluo todas as evidências dos processos realizados, com capturas de tela e explicações. No notebook, disponibilizo todos os scripts utilizados, bem como as tabelas geradas.**
+**Neste README, incluo todas as evidências dos processos realizados, com capturas de tela e explicações. No notebook, disponibilizo todos os scripts utilizados, bem como as tabelas geradas.**
 ## Objetivo
 ### O Objetivo é ter a resposta de:   
 1 - Qual o Preço médio dos últimos 6 meses do produtos hortifruti nos Principais Estados do Brasil  
