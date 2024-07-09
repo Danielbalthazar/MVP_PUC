@@ -6,15 +6,40 @@
 
 **Neste README, incluo todas as evidências dos processos realizados, com capturas de tela e explicações. No notebook, disponibilizo todos os scripts utilizados, bem como as tabelas geradas.**
 ## Objetivo
-### O Objetivo é ter a resposta de:   
-1 - Qual o Preço médio dos últimos 6 meses do produtos hortifruti nos Principais Estados do Brasil  
-2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024   
-3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil  
-4 - Qual a variação mês a mês dos produtos de hortifruti no ano de 2024  
-5 - Qual Ceasa com o maior Preço médio dos últimos 6 meses da Maça no brasil  
-6 - Qual o item com maior variação em junho de 2024  
-7 - Qual a correlação do Dolar nos custos dos produtos de hortifrut  
-8 - Qual insumo foi mais impactado com as movimentações do dolar 
+
+### O objetivo deste trabalho é responder às seguintes perguntas de negócio com clareza e precisão, proporcionando insights valiosos para a tomada de decisões no setor de hortifrutigranjeiros:
+
+1. **Qual o preço médio dos últimos 6 meses dos produtos hortifruti nos principais estados do Brasil?**
+
+   **Objetivo Detalhado:** Identificar e analisar as médias de preços dos produtos hortifrutigranjeiros nos principais estados brasileiros ao longo dos últimos seis meses. Essa análise permitirá entender tendências regionais, avaliar a estabilidade dos preços e identificar possíveis flutuações significativas que possam afetar o mercado.
+
+2. **Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024?**
+
+   **Objetivo Detalhado:** Monitorar e calcular o valor médio mensal dos produtos hortifrutigranjeiros ao longo do ano de 2024. Esta análise ajudará a detectar sazonalidades, identificar meses com variações anômalas e proporcionar uma visão geral do comportamento dos preços ao longo do ano.
+
+3. **Qual o estado com os maiores custos de produtos unitários de hortifruti do Brasil?**
+
+   **Objetivo Detalhado:** Determinar qual estado brasileiro apresenta os maiores custos unitários para produtos hortifrutigranjeiros. Esta informação é crucial para entender disparidades regionais nos custos, identificar estados com mercados mais onerosos e investigar possíveis causas para essas variações.
+
+4. **Qual a variação mês a mês dos produtos de hortifruti no ano de 2024?**
+
+   **Objetivo Detalhado:** Avaliar a variação mensal dos preços dos produtos hortifrutigranjeiros ao longo de 2024. Esta análise permitirá identificar padrões de variação, meses de maior volatilidade e ajudar na previsão de comportamentos futuros dos preços.
+
+5. **Qual Ceasa com o maior preço médio dos últimos 6 meses da maçã no Brasil?**
+
+   **Objetivo Detalhado:** Identificar o Ceasa que apresentou o maior preço médio para a maçã nos últimos seis meses no Brasil. Essa análise ajudará a destacar mercados específicos onde a maçã é mais cara, possibilitando investigações mais detalhadas sobre as razões dessas diferenças de preços.
+
+6. **Qual o item com maior variação em junho de 2024?**
+
+   **Objetivo Detalhado:** Determinar qual produto hortifrutigranjeiro apresentou a maior variação de preço em junho de 2024. Este objetivo visa identificar eventos ou fatores específicos que tenham causado grandes variações em um curto período, permitindo uma análise de causa e efeito mais aprofundada.
+
+7. **Qual a correlação do dólar nos custos dos produtos de hortifruti?**
+
+   **Objetivo Detalhado:** Analisar a correlação entre a variação do dólar e os custos dos produtos hortifrutigranjeiros. Esta análise fornecerá insights sobre a influência da moeda estrangeira nos preços domésticos, ajudando a prever como flutuações cambiais podem impactar o setor.
+
+8. **Qual insumo foi mais impactado com as movimentações do dólar?**
+
+   **Objetivo Detalhado:** Identificar qual insumo utilizado na produção de produtos hortifrutigranjeiros foi mais afetado pelas flutuações do dólar. Essa análise é importante para entender a sensibilidade dos diferentes insumos às variações cambiais, permitindo estratégias de mitigação de risco mais eficazes.
 
 
 ## Coleta dos Dados
