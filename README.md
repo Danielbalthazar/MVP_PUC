@@ -477,4 +477,7 @@ Deixo no notebook a resposta da consulta efetuada na Tabela totalizadora_hortigr
 
 ## Autoavaliação
 
-
+escolhi o modelo mais complexo pensando em construir um projeto mais completo.  
+Fiz todos os processos solicitados no escopo do projeto com todos os prints de cada passo e evidências. 
+A base que busquei precisou de vários tratamentos, aumentando mais a complexidade do projeto. Fiz a modelagem passando por cada estrutura bronze, silver e  gold que também gera mais trabalho para o processo de ETL. 
+Por final respondi a maior parte das perguntas criadas inicialmente, só não consegui correlacionar com a variação do dólar por conta do prazo apertado para entrega do trabalho.
