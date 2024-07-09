@@ -393,7 +393,7 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 
 #### Consultas pra evidência dos Estados sem custos de alguns produtos para etapa de qualidade dos dados
 
-**Nessa etapa eu deixo as evidências das consultas feitas nas tabelas que mostram os produtos e nomes das UF sem custo de alguns produto
+**Nessa etapa eu deixo as evidências das consultas feitas nas tabelas que mostram os produtos e nomes das UF sem custo de alguns produto**
 
 ### Solução do problema
 
