@@ -388,7 +388,7 @@ Todos os dados de todas as tabelas foram tratados para garantir a qualidade, por
 
 Decidi não remover esses dados, pois representam apenas 4 dias no ano de 2024 e têm pouca influência nos resultados que estou procurando. No entanto, é importante estar atento caso seja necessário um dado em uma granularidade menor, pois pode afetar a média de preços.
 
-Observando campo a campo da tabela, único que devemos ter uma atenção é para o campo data e Preço Médio. Nem todos os Ceasas colocam seus preços diariamente, com isso pode-se não encontrar algum preço médio em um dia específico para um Ceasa específio. Além disso alguns Estados não tem preço médio de alguns produto dentro do Período da base, são eles, 'BA', 'CE', 'ES', 'MT', 'PA', 'PE', 'RN', 'TO'. As evidências eu deixo no Notebook, onde coloco uma tabela com os produtos e nomes das UF sem custo desses produto. 
+Observando campo a campo da tabela, único que devemos ter uma atenção é para o campo data e Preço Médio. Nem todos os Ceasas colocam seus preços diariamente, com isso pode-se não encontrar algum preço médio em um dia específico para um Ceasa específio. Além disso alguns Estados não tem preço médio de alguns produtos dentro do Período da base, são eles, 'BA', 'CE', 'ES', 'MT', 'PA', 'PE', 'RN', 'TO'. As evidências eu deixo no Notebook, onde coloco uma tabela com os produtos e nomes das UF sem custo desses produto. 
 
 O restante dos campos das tabelas silver para frente estão todos tratados e sem problemas. 
 
