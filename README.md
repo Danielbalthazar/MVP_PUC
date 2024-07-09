@@ -473,7 +473,7 @@ Deixo um gráfico abaixo com o custo médio dos últimos 6 meses em cada Ceasa. 
 
 ###### RESPOSTA: O Produto com o maior variação em Junho é o Quiabo com a variação de 38,11%.  
  
-Deixo abaixo a resposta da consulta efetuada na Tabela totalizadora_hortigrangeiros
+Deixo no notebook a resposta da consulta efetuada na Tabela totalizadora_hortigrangeiros
 
 ## Autoavaliação
 
