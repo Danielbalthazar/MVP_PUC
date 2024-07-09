@@ -430,7 +430,19 @@ Deixo também um gráfico com as informações organizadas em colunas empilhadas
 Nesse gráfico é possível observar até além da resposta solicitada. Conseguimos ver qual o Produto que tem o Menor Preço Médio entre os produtos e Também a comparação dos Estados vs outros estados do Brasil.  
 
 ![Gráfico Resposta 1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/da2a59ae-6fd4-470c-870e-a3920c71feb9)
+**Gráfico Completo**:
 
+![Gráfico Resposta 1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/efda693e-8207-42bf-a948-f6a017914e49)
+
+**Como o Gráfico é interativo, conseguimos dar zoom e observar um ponto específico, como mostro abaixo:** 
+
+**Recurso de ZOOM do gráfico**
+
+![Gráfico Resposta 1_zoom_1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/a43f445e-5eb5-4f08-9209-e0d1a6910cd7)
+
+**Após dado o Zoom**
+
+![Gráfico Resposta 1_zoom_2](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/dd1e1028-4306-486e-9b3d-e3a7ba4263d6)
 
 ##### 2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024
 
