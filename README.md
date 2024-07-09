@@ -477,11 +477,22 @@ Deixo no notebook a resposta da consulta efetuada na Tabela totalizadora_hortigr
 
 ## Autoavaliação
 
-**Escolhi o modelo mais complexo pensando em construir um projeto mais completo.**
-Como escolhi o modelo onde utilizamos a azure para armazenamento dos arquivos, tive que aprender tudo sobre as configurações necessárias para armazenamento e após isso tive que aprender a fazer a conecção pelo databricks para extrair os arquivos armazenados. 
-Como já tinham liberado utilizar o dbfs do databriks para armazenamento que é um modelo bem mais fácil, considero que o modo que adotei fez com que eu me dedicasse mais nessa etapa.  
-Fiz todos os processos solicitados no escopo do projeto com todos os prints de cada passo e evidências.   
-A base que busquei precisou de vários tratamentos, aumentando mais a complexidade do projeto. Fiz a modelagem passando por cada estrutura bronze, silver e  gold que também gera mais trabalho para o processo de ETL. 
-Por final respondi a maior parte das perguntas criadas inicialmente, só não consegui correlacionar com a variação do dólar por conta do prazo apertado para entrega do trabalho. 
+### Introdução
+Escolhi um modelo de maior complexidade para construir um projeto completo e desafiador. Optei por utilizar a Azure para armazenamento dos arquivos, o que demandou um aprendizado intensivo sobre suas configurações e conexões com o Databricks para a extração dos dados.
+
+### Execução e Aprendizado
+A adoção do armazenamento na Azure, em vez de utilizar o DBFS do Databricks, me obrigou a adquirir novos conhecimentos e habilidades. Esse processo incluiu configurar a infraestrutura necessária e realizar a conexão com o Databricks. Embora o DBFS fosse uma alternativa mais simples, o método escolhido proporcionou um aprendizado mais profundo e uma dedicação maior na etapa de armazenamento.
+
+### Processos Realizados
+Segui todos os processos detalhados no escopo do projeto, documentando cada etapa com prints e evidências. A base de dados selecionada exigiu diversos tratamentos, o que aumentou a complexidade do projeto. Modelei os dados seguindo a estrutura em camadas: bronze, silver e gold, o que também demandou um esforço significativo no processo de ETL.
+
+### Resultados Obtidos
+Consegui responder a maioria das perguntas inicialmente propostas, exceto a correlação com a variação do dólar, devido ao prazo apertado para a entrega do trabalho. A análise e a modelagem dos dados permitiram uma compreensão clara dos problemas e a formulação de respostas embasadas.
+
+### Desafios e Aprimoramentos Futuros
+Os principais desafios enfrentados foram a configuração do armazenamento na Azure e a complexidade dos tratamentos necessários para a base de dados. Para aprimorar este projeto no futuro, planejo aprofundar a análise de correlações econômicas, como a variação do dólar, e explorar outras fontes de dados para enriquecer o escopo do projeto.
+
+### Conclusão
+A escolha de um modelo mais complexo e a utilização de tecnologias avançadas me proporcionaram um aprendizado valioso e uma experiência prática significativa. O projeto foi realizado com sucesso, dentro dos limites estabelecidos, e as dificuldades encontradas serviram como oportunidades de crescimento profissional.
 
 
