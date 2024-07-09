@@ -477,7 +477,11 @@ Deixo no notebook a resposta da consulta efetuada na Tabela totalizadora_hortigr
 
 ## Autoavaliação
 
-escolhi o modelo mais complexo pensando em construir um projeto mais completo.  
-Fiz todos os processos solicitados no escopo do projeto com todos os prints de cada passo e evidências. 
+**Escolhi o modelo mais complexo pensando em construir um projeto mais completo.**
+Como escolhi o modelo onde utilizamos a azure para armazenamento dos arquivos, tive que aprender tudo sobre as configurações necessárias para armazenamento e após isso tive que aprender a fazer a conecção pelo databricks para extrair os arquivos armazenados. 
+Como já tinham liberado utilizar o dbfs do databriks para armazenamento que é um modelo bem mais fácil, considero que o modo que adotei fez com que eu me dedicasse mais nessa etapa.  
+Fiz todos os processos solicitados no escopo do projeto com todos os prints de cada passo e evidências.   
 A base que busquei precisou de vários tratamentos, aumentando mais a complexidade do projeto. Fiz a modelagem passando por cada estrutura bronze, silver e  gold que também gera mais trabalho para o processo de ETL. 
-Por final respondi a maior parte das perguntas criadas inicialmente, só não consegui correlacionar com a variação do dólar por conta do prazo apertado para entrega do trabalho.
+Por final respondi a maior parte das perguntas criadas inicialmente, só não consegui correlacionar com a variação do dólar por conta do prazo apertado para entrega do trabalho. 
+
+
