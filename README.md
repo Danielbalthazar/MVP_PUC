@@ -407,7 +407,7 @@ Deixo também um df chamado "null_values", que contém os produtos que não tem 
 ![Gráfico Resposta 1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/da2a59ae-6fd4-470c-870e-a3920c71feb9)
 
 <div align="center">
-<img src="https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/da2a59ae-6fd4-470c-870e-a3920c71feb9" width="700px" />
+<img src="https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/da2a59ae-6fd4-470c-870e-a3920c71feb9" width="2000px" />
 </div>
 
 ##### 2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024
