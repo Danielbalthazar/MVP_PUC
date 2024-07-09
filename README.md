@@ -128,7 +128,7 @@ Aqui Foi criado tanto o Catálogo "Bronze" como o schema "Tabela"
 Aqui Realizo alguns tratamentos:  
 * Renomeei algumas colunas 
 * Removi a primeira linha do cabeçalho adicional
-* Derreti as colunas para a Tabela ficar em um formato longo e estreito(Anteriormente as datas estavam nas colunas, Trouxe para as linhas)
+* Derreti as colunas para a tabela ficar em um formato longo e estreito(Anteriormente as datas estavam nas colunas, trouxe para as linhas)
 * juntei os 6 Meses em uma única tabela
 
 #### Salvando arquivo Bronze no Data Lake
