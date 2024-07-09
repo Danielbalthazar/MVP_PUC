@@ -466,6 +466,8 @@ Deixo um gráfico abaixo com o custo médio dos últimos 6 meses em cada Ceasa. 
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**
 
+![Gráfico Resposta 5](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/7510ef21-b367-4f69-b77b-0a8b70e0b415)
+
 
 ##### 6 - Qual o item com maior variação em junho de 2024
 
