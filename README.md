@@ -449,6 +449,13 @@ Além disso no gráfico conseguimor ver exatamente quais os produtos que tiveram
 Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro em 2024, uma variação de mais de 50% no mês de abril.
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**
+![Gráfico Resposta 4](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/c210a1cf-7d61-4262-a121-7ecfec2acd31)
+
+**Recurso de ZOOM do gráfico**
+![Gráfico Resposta 4 zoom_1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/63432eef-ba2c-400f-ab70-8a36a665d9d4)
+
+**Após dado o Zoom**
+![Gráfico Resposta 4 zoom_2](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/42a98378-a81f-432e-8f62-ddb1cd35d46a)
 
 
 ##### 5 - Qual Ceasa com o maior Preço médio dos últimos 6 meses da Maça no brasil
