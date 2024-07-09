@@ -1,9 +1,8 @@
 # MVP_PUC
 
-# MVP Sprint: Engenharia de Dados
+# MVP Sprint 1: Engenharia de Dados
 
 # Nome: Daniel Balthazar
-
 
 
 ## Objetivo
