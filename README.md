@@ -403,7 +403,6 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 ###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela no notebook como a resposta.  
 Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada UF em Cada Produto.  
 Nesse gráfico é possível observar até além da resposta solicitada. Conseguimos ver qual o Produto que tem o Menor Preço Médio entre os produtos e Também a comparação dos Estados vs outros estados do Brasil.  
-Deixo também um df chamado "null_values", que contém os produtos que não tem Preço médio dentro de cada UF.
 
 ![Gráfico Resposta 1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/da2a59ae-6fd4-470c-870e-a3920c71feb9)
 
