@@ -405,7 +405,7 @@ Nesse gráfico é possível observar até além da resposta solicitada. Consegui
 Deixo também um df chamado "null_values", que contém os produtos que não tem Preço médio dentro de cada UF.
 
 ![Gráfico Resposta 1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/da2a59ae-6fd4-470c-870e-a3920c71feb9)
-![2024-07-09](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/ad1b8138-0f5d-4a73-bfb3-b9dbf72826db)
+
 
 ##### 2 - Qual o valor médio dos produtos hortifruti mês a mês no ano de 2024
 
@@ -427,6 +427,7 @@ Já o maracujá azedo reduziu bastante, custava em jan 24 13,11 o KG e está cus
 ![Gráfico Resposta 2 Zoom_1](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/49b78a4a-911a-4b5a-9bfe-65d876f66b42)
 
 **Após dado o Zoom**
+
 ![Gráfico Resposta 2 Zoom_2](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/8e17e953-b1fc-4493-bd07-f5aaf5c6f6c7)
 
 ##### 3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil 
@@ -436,6 +437,8 @@ Para essa Analise fiz uma divisão da quantidade de produtos totais pelos custos
 Deixo um gráfico abaixo com o custo unitário total de cada UF   
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**  
+
+
 
 ##### 4 - Qual a variação mês a mês dos produtos de hortifruti no ano de 2024
 
