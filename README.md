@@ -470,9 +470,9 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 
 ##### 3 - Qual o Estado com os maiores custos de produtos unitários de hortifruti do brasil 
 
-###### RESPOSTA: O Estado com maiores custos unitários de produtos de Hortifruti é o Estado MA.  
-Para essa Analise fiz uma divisão da quantidade de produtos totais pelos custos totais do Estado.  
-Deixo um gráfico abaixo com o custo unitário total de cada UF   
+###### RESPOSTA: O Estado com maiores custos unitários de produtos de Hortifruti é o Estado do Maranhão com um custo Médio de R$11,36.  
+###### Para essa Analise fiz uma divisão da quantidade de produtos totais pelos custos totais do Estado.  
+###### Deixo um gráfico abaixo com o custo unitário total de cada UF  
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**  
 
