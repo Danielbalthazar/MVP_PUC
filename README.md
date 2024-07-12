@@ -500,7 +500,7 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 
 ###### RESPOSTA: O Ceasa com o maior preço médio da Maça nos últimos 6 meses é o CEASA/MA - SAO LUIZ com um preço médio de 13,52.  
  
-Deixo um gráfico abaixo com o custo médio dos últimos 6 meses em cada Ceasa. Nele podemos observar também que o Ceasa com o menor custo é o CEASA/RS - PORTO ALEGRE
+###### Deixo um gráfico abaixo com o custo médio dos últimos 6 meses em cada Ceasa. Nele podemos observar também que o Ceasa com o menor custo é o CEASA/RS - PORTO ALEGRE
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**
 
