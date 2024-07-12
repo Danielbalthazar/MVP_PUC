@@ -511,7 +511,8 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 
 ###### RESPOSTA: O Produto com o maior variação em Junho é o Quiabo com a variação de 38,11%.  
  
-Deixo no notebook a resposta da consulta efetuada na Tabela totalizadora_hortigrangeiros
+###### Deixo abaixo a resposta da consulta efetuada na Tabela totalizadora_hortigrangeiros
+
 
 ## Autoavaliação
 
