@@ -481,10 +481,10 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 
 ##### 4 - Qual a variação mês a mês dos produtos de hortifruti no ano de 2024
 
-###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela no notebook como a resposta.  
-Deixo também um gráfico com as informações organizadas em colunas, onde conseguimos observar a variação do Preço Médio de cada Produto Mês a Mês.  
-Além disso no gráfico conseguimor ver exatamente quais os produtos que tiveram a maior variação de Preço ao Longo do Tempo.  
-Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro em 2024, uma variação de mais de 50% no mês de abril.
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+###### Deixo também um gráfico com as informações organizadas em colunas, onde conseguimos observar a variação do Preço Médio de cada Produto Mês a Mês.  
+###### Além disso no gráfico conseguimor ver exatamente quais os produtos que tiveram a maior variação de Preço ao Longo do Tempo.  
+###### Por exemplo o Mamão Hawai foi o teve a maior variação de um Mês para outro em 2024, uma variação de mais de 50% no mês de abril e o mês de abril foi o mês que ocorreram as maiores varições na maioria dos produtos comparado a outros meses.
 
 **Gráfico no README, pois plotly.express não aparece no repositório do github**
 ![Gráfico Resposta 4](https://github.com/Danielbalthazar/MVP_PUC/assets/152397865/c210a1cf-7d61-4262-a121-7ecfec2acd31)
