@@ -427,9 +427,9 @@ O restante dos campos das tabelas silver para frente estão todos tratados e sem
 
 ##### 1 - Qual o Preço médio dos últimos 6 meses dos produtos de hortifruti nos principais Estados do Brasil 
 
-###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela no notebook como a resposta.  
-Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada UF em Cada Produto.  
-Nesse gráfico é possível observar até além da resposta solicitada. Conseguimos ver qual o Produto que tem o Menor Preço Médio entre os produtos e Também a comparação dos Estados vs outros estados do Brasil.  
+###### RESPOSTA: Como a resposta é uma Tabela com algumas linhas, deixo a tabela abaixo como a resposta.  
+###### Deixo também um gráfico com as informações organizadas em colunas empilhadas, onde conseguimos observar o Preço Médio de cada UF em Cada Produto.  (Gráfico no README)  
+###### Nesse gráfico é possível observar até além da resposta solicitada. Conseguimos ver qual o Produto que tem o Menor Preço Médio entre os produtos e Também a comparação dos Estados vs outros estados do Brasil. O Morango por exemplo é o produto com o preço médio mais alto e o Estado com maior preço médio desse item é o PARÁ.
 
 **Gráfico Completo**:
 
